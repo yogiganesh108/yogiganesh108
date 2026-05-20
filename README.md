@@ -56,7 +56,7 @@
 
 ### 🎨 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux" />
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### 🗄️ Databases
