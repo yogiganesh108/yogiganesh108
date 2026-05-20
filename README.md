@@ -61,7 +61,7 @@
 
 ### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### ☁️ Tools & Platforms
@@ -126,12 +126,11 @@ A desktop-based ATM simulation project using Java Swing.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yogiganesh108&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogiganesh108&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yogiganesh108&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogiganesh108&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogiganesh108&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
