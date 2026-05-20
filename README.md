@@ -91,20 +91,21 @@ A scalable grievance management platform built using **Spring Boot Microservices
 
 ---
 
-## 🌐 Social Media Platform
+## 💼 Job Portal Platform
 
-A full-stack social media application with modern features.
+A full-stack job portal application that connects job seekers and recruiters through a modern recruitment system.
 
 ### ✨ Features
-- Secure Login & Registration
-- Create Posts with Images/Videos
-- Like & Comment System
-- Friend Request Management
-- Dynamic User Profiles
+- User & Recruiter Authentication
+- Job Posting & Management
+- Apply for Jobs Online
+- Resume Upload Functionality
+- Admin Dashboard Management
+- Role-Based Access Control
+- Dynamic Job Search & Filtering
 
 ### 🧰 Tech Used
-`React.js` `Spring Boot` `MySQL` `JPA` `JWT`
-
+`React.js` `Spring Boot` `MySQL` `JWT` `JPA`
 ---
 
 ## 🏧 ATM Management System
