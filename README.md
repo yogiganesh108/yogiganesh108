@@ -124,15 +124,14 @@ A desktop-based ATM simulation project using Java Swing.
 
 ---
 
+
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogiganesh108&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogiganesh108&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogiganesh108&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yogiganesh108&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogiganesh108&theme=tokyonight)
 
 ---
 
